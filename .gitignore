@@ -1,0 +1,7 @@
+#Editor cache dir
+.idea
+**/.idea
+
+#MacOs Cache
+.DS_Store
+**/.DS_Store
