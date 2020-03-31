@@ -557,6 +557,8 @@ window.customTools = {};
     /**
      *
      * ... usage ...
+     *      Preview see here:https://david262929.github.io/customTools/docs/index.html
+     *
      *      callback = ( blocked_or_not ) => {
      */
     ((global, window, document) => {
